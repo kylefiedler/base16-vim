@@ -242,7 +242,7 @@ call <sid>hi("htmlTag",     s:gui05, "", s:cterm05, "", "")
 call <sid>hi("cssBraces",      s:gui05, "", s:cterm05, "", "")
 call <sid>hi("cssClassName",   s:gui0E, "", s:cterm0E, "", "")
 call <sid>hi("cssColor",       s:gui0C, "", s:cterm0C, "", "")
-call <sid>hi("cssClassName",       s:gui01, "", s:cterm00, "", "")
+call <sid>hi("cssBoxProp",     s:gui01, "", s:cterm00, "", "")
 
 " SASS highlighting
 call <sid>hi("sassidChar",     s:gui08, "", s:cterm08, "", "")
