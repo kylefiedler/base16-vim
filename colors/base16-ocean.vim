@@ -247,8 +247,8 @@ call <sid>hi("cssProp",        s:gui07, "", s:cterm00, "", "")
 " SASS highlighting
 call <sid>hi("sassidChar",     s:gui08, "", s:cterm08, "", "")
 call <sid>hi("sassClassChar",  s:gui09, "", s:cterm09, "", "")
-call <sid>hi("sassInclude",    s:gui0E, "", s:cterm0E, "", "")
-call <sid>hi("sassMixing",     s:gui0E, "", s:cterm0E, "", "")
+call <sid>hi("sassInclude",    s:gui07, "", s:cterm0E, "", "")
+call <sid>hi("sassMixing",     s:gui07, "", s:cterm0E, "", "")
 call <sid>hi("sassMixinName",  s:gui0D, "", s:cterm0D, "", "")
 
 " JavaScript highlighting
